@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/Merlin262">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Merlin262&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merlin262&theme=onedark&hide_border=false&&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Merlin262&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merlin262&theme=prussian&hide_border=false&&layout=compact"/>
 </div>
 
 ##
